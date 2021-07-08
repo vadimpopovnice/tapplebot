@@ -1,0 +1,2 @@
+token = "1895724202:AAGlbYZ2SveNHK1jIPEuZn7jHDVmMg5uVV4"
+admin_id = 752942386
